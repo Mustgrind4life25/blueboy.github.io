@@ -1,0 +1,135 @@
+body{
+	background-color: lightgrey;
+	font-family:courier,arial,helvetica;
+	color: white;
+}
+
+
+#title{
+	background-color: #1D87E4;
+}
+
+#title a{
+	color: #fff;
+}
+
+/*#title nav{
+	position: fixed;
+}*/
+
+.logo-icon{
+	width: 70px;
+	border-radius: 50%;
+}
+
+/*main section*/
+h1{
+
+}
+.img-main{
+	border-radius: 50%;
+	margin: 50px 50px;
+	width: 500px;
+}
+
+
+#info-sec{
+	padding: 100px;
+}
+
+.info-col{
+	padding: 3% 2%;
+}
+/*.rec{
+	width: 600px;
+	height: 600px;
+	background: blue;
+	border-radius: 50%;
+	text-align: center;
+	z-index: -1;
+}
+*/
+
+/*Coach's sec*/
+#coaches-sec{
+	background-color: #1D87E4;
+	position: relative;
+}
+
+#coaches-sec img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	margin-left: 400px;
+	padding: 15px;
+}
+
+#coaches-sec a{
+	color: #fff;
+}
+
+#coaches-sec a:hover{
+	color: red;
+}
+
+.row-head{
+	background-color: #1D87E4;
+}
+
+
+/*footer section*/
+#footer{
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+/*google places for review plugin*/
+
+
+
+
+
+
+
+
+
+
+
+/*go to this website for animations:;
+undraw.co
+canva.com = allows you to create designs for websites
+
+
+
+
+
+
+
+*/
+
+
+
+/*div class="card-header">
+						featured
+						<div class="card-body">
+							<div class="card-img">
+								<img src="img/bluefam.jpg">
+								<p class="card-text">The Fam</p>
+							</div>
+						</div>
+					</div>
+					<div class="card-body">
+							<div class="card-img">
+								<img src="img/bluefam.jpg">
+								<p class="card-text">The Fam</p>
+							</div>
+						</div>
+					</div>*/
